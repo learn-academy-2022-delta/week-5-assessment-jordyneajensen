@@ -24,7 +24,11 @@ Researched answer: A gem is an open-source library of code. Gems contain code, d
 
 Your answer: Ruby on Rails is a complex system that allows Ruby to interact with databases as sort of a translator. A full-stack frame-work for both front-end and back-end development.
 
-Researched answer:
+Researched answer: Ruby on Rails uses the Model-View-Controller (MVC) architectural pattern used by many other web frameworks — one of the most well-known patterns in development. The MVC pattern separates a web application's code into three interconnected parts:
+
+The Model, which holds the data structure of the application.
+The View, which represents the visual part of the web app as web page templates.
+The Controller, which connects the data to the View and contains the business logic of the application.
 
 4. What is a relational database? Are there other kinds of databases?
 
@@ -40,7 +44,10 @@ Other forms of databases include: Centralised database,Distributed database, Per
 
 Your answer: Primary keys are the unique identifies in a data base that allow each instance created to be absolutely unique from one another despite whether or not the information contained in the unique instance is similar. Primary keys are incredibly important in data bases as it is very common to have for example, people with the same name and need a way to distinguish them from each other. 
 
-Researched answer:
+Researched answer: A primary key, also called a primary keyword, is a key in a relational database that is unique for each record. A primary key is necessary to ensure that a table record can always be uniquely identified. A primary key’s main features are:
+It must contain a unique value for each row of data.
+It cannot contain null values.
+Every row must have a primary key value.
 
 ## Looking Ahead: Terms for Next Week
 
